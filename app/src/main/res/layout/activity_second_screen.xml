@@ -7,5 +7,9 @@
     android:background="#100B0B"
     tools:context=".SecondScreen">
 
-
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn"
+        android:text="Click đê"/>
 </RelativeLayout>

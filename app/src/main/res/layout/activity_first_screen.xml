@@ -6,6 +6,9 @@
     android:layout_height="match_parent"
     android:layout_margin="10dp"
     tools:context=".FirstScreen">
-
-
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn"
+        />
 </RelativeLayout>
